@@ -1,0 +1,16 @@
+{
+  "data":[
+{
+    "matricule":"CC-123-DD",
+    "name":"ambulance 1",
+    "coordinates":[ -84.1926097869873,
+      30.479449996609706]
+  },
+  {
+    "matricule":"BB-456-CC",
+    "name":"ambulance 2",
+    "coordinates":[  -84.17454242706299,
+      30.49183915689168]
+  }
+  ]
+}
